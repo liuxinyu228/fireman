@@ -1,0 +1,1246 @@
+server,command,date
+192.168.196.143:22:liuxinyu,SSH SIP,"SIP:	    271 192.168.196.1
+"
+192.168.196.143:22:liuxinyu,Find OS 7,"/usr/bin/
+/usr/bin/x-www-browser
+/usr/bin/code
+/usr/bin/gnome-www-browser
+/usr/sbin/
+/bin/
+/bin/x-www-browser
+/bin/code
+/bin/gnome-www-browser
+"
+192.168.196.143:22:liuxinyu,Find Time /var 7,"/var/crash
+/var/lib/dpkg
+/var/lib/dpkg/updates
+/var/lib/dpkg/triggers
+/var/lib/dpkg/triggers/Lock
+/var/lib/dpkg/triggers/ldconfig
+/var/lib/dpkg/triggers/File
+/var/lib/dpkg/triggers/update-initramfs
+/var/lib/dpkg/triggers/shim-secureboot-policy
+/var/lib/dpkg/triggers/shim-kernel-check
+/var/lib/dpkg/triggers/Unincorp
+/var/lib/dpkg/status-old
+/var/lib/dpkg/lock
+/var/lib/dpkg/status
+/var/lib/dpkg/alternatives
+/var/lib/dpkg/alternatives/open
+/var/lib/dpkg/alternatives/x-www-browser
+/var/lib/dpkg/alternatives/ip6tables
+/var/lib/dpkg/alternatives/ebtables
+/var/lib/dpkg/alternatives/gnome-www-browser
+/var/lib/dpkg/alternatives/editor
+/var/lib/dpkg/alternatives/shimx64.efi.signed
+/var/lib/dpkg/alternatives/gdm-theme.gresource
+/var/lib/dpkg/alternatives/arptables
+/var/lib/dpkg/alternatives/text.plymouth
+/var/lib/dpkg/alternatives/iptables
+/var/lib/dpkg/alternatives/gdm-smartcard
+/var/lib/dpkg/info
+/var/lib/dpkg/info/libmbim-glib4:amd64.list
+/var/lib/dpkg/info/ubuntu-release-upgrader-gtk.list
+/var/lib/dpkg/info/update-manager.list
+/var/lib/dpkg/info/python3-distupgrade.list
+/var/lib/dpkg/info/libldap-2.5-0:amd64.list
+/var/lib/dpkg/info/gvfs-common.list
+/var/lib/dpkg/info/libgl1-amber-dri:amd64.list
+/var/lib/dpkg/info/libgpgmepp6:amd64.list
+/var/lib/dpkg/info/nautilus-data.list
+/var/lib/dpkg/info/libpulse0:amd64.list
+/var/lib/dpkg/info/libpulse-mainloop-glib0:amd64.list
+/var/lib/dpkg/info/python3-debian.list
+/var/lib/dpkg/info/libjson-c5:amd64.list
+/var/lib/dpkg/info/update-notifier-common.list
+/var/lib/dpkg/info/libkrb5-3:amd64.list
+/var/lib/dpkg/info/initramfs-tools-core.list
+/var/lib/dpkg/info/dpkg-dev.list
+/var/lib/dpkg/info/grub-pc-bin.list
+/var/lib/dpkg/info/mokutil.list
+/var/lib/dpkg/info/libsmbclient:amd64.list
+/var/lib/dpkg/info/libgnome-desktop-4-1:amd64.list
+/var/lib/dpkg/info/libcanberra0:amd64.list
+/var/lib/dpkg/info/dmidecode.list
+/var/lib/dpkg/info/gdm3.list
+/var/lib/dpkg/info/libpipewire-0.3-modules:amd64.list
+/var/lib/dpkg/info/modemmanager.list
+/var/lib/dpkg/info/libgbm1:amd64.list
+/var/lib/dpkg/info/libsnmp40:amd64.list
+/var/lib/dpkg/info/evince.list
+/var/lib/dpkg/info/gnome-shell-extension-desktop-icons-ng.list
+/var/lib/dpkg/info/gnome-remote-desktop.list
+/var/lib/dpkg/info/gstreamer1.0-clutter-3.0:amd64.list
+/var/lib/dpkg/info/libsystemd0:amd64.list
+/var/lib/dpkg/info/xserver-xorg-video-radeon.list
+/var/lib/dpkg/info/libgpgme11:amd64.list
+/var/lib/dpkg/info/gvfs-fuse.list
+/var/lib/dpkg/info/libpcsclite1:amd64.list
+/var/lib/dpkg/info/xserver-xorg-core.list
+/var/lib/dpkg/info/tzdata.list
+/var/lib/dpkg/info/gvfs-backends.list
+/var/lib/dpkg/info/libcanberra-gtk3-module:amd64.list
+/var/lib/dpkg/info/yaru-theme-gtk.list
+/var/lib/dpkg/info/gstreamer1.0-pipewire:amd64.list
+/var/lib/dpkg/info/libsasl2-modules:amd64.list
+/var/lib/dpkg/info/libfwupd2:amd64.list
+/var/lib/dpkg/info/xserver-xephyr.list
+/var/lib/dpkg/info/libgtk-4-1:amd64.list
+/var/lib/dpkg/info/libk5crypto3:amd64.list
+/var/lib/dpkg/info/libc6-dbg:amd64.list
+/var/lib/dpkg/info/python3-apt.list
+/var/lib/dpkg/info/libidn12:amd64.list
+/var/lib/dpkg/info/gir1.2-nm-1.0:amd64.list
+/var/lib/dpkg/info/pipewire:amd64.list
+/var/lib/dpkg/info/linux-firmware.list
+/var/lib/dpkg/info/python-apt-common.list
+/var/lib/dpkg/info/ubuntu-drivers-common.list
+/var/lib/dpkg/info/gnome-desktop3-data.list
+/var/lib/dpkg/info/gvfs-daemons.list
+/var/lib/dpkg/info/libglx-mesa0:amd64.list
+/var/lib/dpkg/info/python3-gi-cairo.list
+/var/lib/dpkg/info/gnome-keyring-pkcs11:amd64.list
+/var/lib/dpkg/info/libgdk-pixbuf-2.0-0:amd64.list
+/var/lib/dpkg/info/libpangoft2-1.0-0:amd64.list
+/var/lib/dpkg/info/gnome-session-canberra.list
+/var/lib/dpkg/info/libpam-gnome-keyring:amd64.list
+/var/lib/dpkg/info/gdb.list
+/var/lib/dpkg/info/libnftables1:amd64.list
+/var/lib/dpkg/info/language-pack-gnome-zh-hans.list
+/var/lib/dpkg/info/libfprint-2-2:amd64.list
+/var/lib/dpkg/info/alsa-ucm-conf.list
+/var/lib/dpkg/info/systemd-timesyncd.list
+/var/lib/dpkg/info/ubuntu-docs.list
+/var/lib/dpkg/info/libsasl2-modules-gssapi-mit:amd64.list
+/var/lib/dpkg/info/yaru-theme-gnome-shell.list
+/var/lib/dpkg/info/gnome-shell-extension-ubuntu-dock.list
+/var/lib/dpkg/info/libinput10:amd64.list
+/var/lib/dpkg/info/wpasupplicant.list
+/var/lib/dpkg/info/grub-common.list
+/var/lib/dpkg/info/ibus-pinyin.list
+/var/lib/dpkg/info/language-pack-gnome-en.list
+/var/lib/dpkg/info/libunwind8:amd64.list
+/var/lib/dpkg/info/libpangocairo-1.0-0:amd64.list
+/var/lib/dpkg/info/speech-dispatcher-espeak-ng.list
+/var/lib/dpkg/info/ubuntu-advantage-desktop-daemon.list
+/var/lib/dpkg/info/gstreamer1.0-tools.list
+/var/lib/dpkg/info/grub-efi-amd64-bin.list
+/var/lib/dpkg/info/libc6-dev:amd64.list
+/var/lib/dpkg/info/code.md5sums
+/var/lib/dpkg/info/libip6tc2:amd64.list
+/var/lib/dpkg/info/nautilus.list
+/var/lib/dpkg/info/libgdm1.list
+/var/lib/dpkg/info/apt.list
+/var/lib/dpkg/info/apparmor.list
+/var/lib/dpkg/info/speech-dispatcher-audio-plugins:amd64.list
+/var/lib/dpkg/info/libdrm-common.list
+/var/lib/dpkg/info/im-config.list
+/var/lib/dpkg/info/libnotify4:amd64.list
+/var/lib/dpkg/info/libcanberra-gtk3-0:amd64.list
+/var/lib/dpkg/info/libpipewire-0.3-common.list
+/var/lib/dpkg/info/libfwupdplugin5:amd64.list
+/var/lib/dpkg/info/fwupd-signed.list
+/var/lib/dpkg/info/isc-dhcp-client.list
+/var/lib/dpkg/info/libldap-common.list
+/var/lib/dpkg/info/libcryptsetup12:amd64.list
+/var/lib/dpkg/info/apport-gtk.list
+/var/lib/dpkg/info/libpango-1.0-0:amd64.list
+/var/lib/dpkg/info/python3-gi.list
+/var/lib/dpkg/info/gnome-control-center-faces.list
+/var/lib/dpkg/info/ubuntu-release-upgrader-core.list
+/var/lib/dpkg/info/libadwaita-1-0:amd64.list
+/var/lib/dpkg/info/xbrlapi.list
+/var/lib/dpkg/info/yaru-theme-icon.list
+/var/lib/dpkg/info/gir1.2-mutter-10:amd64.list
+/var/lib/dpkg/info/libsasl2-2:amd64.list
+/var/lib/dpkg/info/libqmi-proxy.list
+/var/lib/dpkg/info/pulseaudio-utils.list
+/var/lib/dpkg/info/libpam-sss:amd64.list
+/var/lib/dpkg/info/libdrm-amdgpu1:amd64.list
+/var/lib/dpkg/info/speech-dispatcher.list
+/var/lib/dpkg/info/libsnmp-base.list
+/var/lib/dpkg/info/evince-common.list
+/var/lib/dpkg/info/libevdocument3-4:amd64.list
+/var/lib/dpkg/info/grub-efi-amd64-signed.list
+/var/lib/dpkg/info/libapt-pkg6.0:amd64.list
+/var/lib/dpkg/info/libgtk-3-0:amd64.list
+/var/lib/dpkg/info/libnm0:amd64.list
+/var/lib/dpkg/info/libxatracker2:amd64.list
+/var/lib/dpkg/info/isc-dhcp-common.list
+/var/lib/dpkg/info/code.list
+/var/lib/dpkg/info/libcanberra-pulse:amd64.list
+/var/lib/dpkg/info/fonts-noto-color-emoji.list
+/var/lib/dpkg/info/ufw.list
+/var/lib/dpkg/info/ubuntu-minimal.list
+/var/lib/dpkg/info/systemd.list
+/var/lib/dpkg/info/libclutter-gst-3.0-0:amd64.list
+/var/lib/dpkg/info/gnome-shell.list
+/var/lib/dpkg/info/language-pack-zh-hans.list
+/var/lib/dpkg/info/python3-speechd.list
+/var/lib/dpkg/info/libspeechd2:amd64.list
+/var/lib/dpkg/info/mutter-common.list
+/var/lib/dpkg/info/gir1.2-adw-1:amd64.list
+/var/lib/dpkg/info/mesa-vulkan-drivers:amd64.list
+/var/lib/dpkg/info/libudev1:amd64.list
+/var/lib/dpkg/info/gtk-update-icon-cache.list
+/var/lib/dpkg/info/libpulsedsp:amd64.list
+/var/lib/dpkg/info/udev.list
+/var/lib/dpkg/info/libgtk-4-common.list
+/var/lib/dpkg/info/ubuntu-advantage-tools.list
+/var/lib/dpkg/info/xdg-desktop-portal.list
+/var/lib/dpkg/info/libdrm2:amd64.list
+/var/lib/dpkg/info/gnome-shell-common.list
+/var/lib/dpkg/info/python3-software-properties.list
+/var/lib/dpkg/info/tcpdump.list
+/var/lib/dpkg/info/libgl1-mesa-dri:amd64.list
+/var/lib/dpkg/info/systemd-oomd.list
+/var/lib/dpkg/info/libc6:amd64.list
+/var/lib/dpkg/info/libnetplan0:amd64.list
+/var/lib/dpkg/info/xserver-xorg-legacy.list
+/var/lib/dpkg/info/libusb-1.0-0:amd64.list
+/var/lib/dpkg/info/libpipewire-0.3-0:amd64.list
+/var/lib/dpkg/info/gir1.2-gdm-1.0:amd64.list
+/var/lib/dpkg/info/gir1.2-pango-1.0:amd64.list
+/var/lib/dpkg/info/language-pack-gnome-en-base.list
+/var/lib/dpkg/info/shim-signed.list
+/var/lib/dpkg/info/software-properties-gtk.list
+/var/lib/dpkg/info/libspa-0.2-modules:amd64.list
+/var/lib/dpkg/info/python3-macaroonbakery.list
+/var/lib/dpkg/info/libevview3-3:amd64.list
+/var/lib/dpkg/info/python3-tz.list
+/var/lib/dpkg/info/pulseaudio-module-bluetooth.list
+/var/lib/dpkg/info/libdpkg-perl.list
+/var/lib/dpkg/info/python3-distro-info.list
+/var/lib/dpkg/info/pulseaudio.list
+/var/lib/dpkg/info/libgstreamer1.0-0:amd64.list
+/var/lib/dpkg/info/software-properties-common.list
+/var/lib/dpkg/info/xserver-common.list
+/var/lib/dpkg/info/systemd-sysv.list
+/var/lib/dpkg/info/libgssapi-krb5-2:amd64.list
+/var/lib/dpkg/info/libegl-mesa0:amd64.list
+/var/lib/dpkg/info/language-selector-common.list
+/var/lib/dpkg/info/kbd.list
+/var/lib/dpkg/info/language-pack-gnome-zh-hans-base.list
+/var/lib/dpkg/info/initramfs-tools-bin.list
+/var/lib/dpkg/info/yaru-theme-sound.list
+/var/lib/dpkg/info/openvpn.list
+/var/lib/dpkg/info/update-manager-core.list
+/var/lib/dpkg/info/xdg-desktop-portal-gnome.list
+/var/lib/dpkg/info/samba-libs:amd64.list
+/var/lib/dpkg/info/libgtk-3-common.list
+/var/lib/dpkg/info/thermald.list
+/var/lib/dpkg/info/apport.list
+/var/lib/dpkg/info/zenity.list
+/var/lib/dpkg/info/brltty.list
+/var/lib/dpkg/info/libgtk-4-bin.list
+/var/lib/dpkg/info/libdrm-radeon1:amd64.list
+/var/lib/dpkg/info/grub2-common.list
+/var/lib/dpkg/info/libip4tc2:amd64.list
+/var/lib/dpkg/info/libnautilus-extension1a:amd64.list
+/var/lib/dpkg/info/pipewire-bin.list
+/var/lib/dpkg/info/xserver-xorg-video-ati.list
+/var/lib/dpkg/info/libapparmor1:amd64.list
+/var/lib/dpkg/info/libllvm15:amd64.list
+/var/lib/dpkg/info/gir1.2-gtk-3.0:amd64.list
+/var/lib/dpkg/info/shotwell.list
+/var/lib/dpkg/info/gvfs:amd64.list
+/var/lib/dpkg/info/ubuntu-desktop-minimal.list
+/var/lib/dpkg/info/zenity-common.list
+/var/lib/dpkg/info/apt-utils.list
+/var/lib/dpkg/info/language-pack-en.list
+/var/lib/dpkg/info/initramfs-tools.list
+/var/lib/dpkg/info/distro-info.list
+/var/lib/dpkg/info/libpangoxft-1.0-0:amd64.list
+/var/lib/dpkg/info/gvfs-libs:amd64.list
+/var/lib/dpkg/info/libkrb5support0:amd64.list
+/var/lib/dpkg/info/language-selector-gnome.list
+/var/lib/dpkg/info/libpam-fprintd:amd64.list
+/var/lib/dpkg/info/libmutter-10-0:amd64.list
+/var/lib/dpkg/info/distro-info-data.list
+/var/lib/dpkg/info/libgdk-pixbuf2.0-bin.list
+/var/lib/dpkg/info/libnotify-bin.list
+/var/lib/dpkg/info/libpkcs11-helper1:amd64.list
+/var/lib/dpkg/info/gnome-keyring.list
+/var/lib/dpkg/info/network-manager.list
+/var/lib/dpkg/info/libglapi-mesa:amd64.list
+/var/lib/dpkg/info/firmware-sof-signed.list
+/var/lib/dpkg/info/deja-dup.list
+/var/lib/dpkg/info/libwbclient0:amd64.list
+/var/lib/dpkg/info/gnome-control-center.list
+/var/lib/dpkg/info/grub-pc.list
+/var/lib/dpkg/info/libc-devtools.list
+/var/lib/dpkg/info/libmm-glib0:amd64.list
+/var/lib/dpkg/info/fwupd.list
+/var/lib/dpkg/info/ubuntu-standard.list
+/var/lib/dpkg/info/libdrm-nouveau2:amd64.list
+/var/lib/dpkg/info/libc-bin.list
+/var/lib/dpkg/info/network-manager-config-connectivity-ubuntu.list
+/var/lib/dpkg/info/libmbim-proxy.list
+/var/lib/dpkg/info/libgtk-3-bin.list
+/var/lib/dpkg/info/libc-dev-bin.list
+/var/lib/dpkg/info/language-pack-en-base.list
+/var/lib/dpkg/info/locales.list
+/var/lib/dpkg/info/gnome-control-center-data.list
+/var/lib/dpkg/info/libinput-bin.list
+/var/lib/dpkg/info/gir1.2-notify-0.7:amd64.list
+/var/lib/dpkg/info/python3-brlapi:amd64.list
+/var/lib/dpkg/info/nftables.list
+/var/lib/dpkg/info/update-notifier.list
+/var/lib/dpkg/info/python3-apport.list
+/var/lib/dpkg/info/gir1.2-gstreamer-1.0:amd64.list
+/var/lib/dpkg/info/xserver-xorg-video-amdgpu.list
+/var/lib/dpkg/info/libgnome-desktop-3-19:amd64.list
+/var/lib/dpkg/info/python3-problem-report.list
+/var/lib/dpkg/info/dpkg.list
+/var/lib/dpkg/info/libqmi-glib5:amd64.list
+/var/lib/dpkg/info/shotwell-common.list
+/var/lib/dpkg/info/base-files.list
+/var/lib/dpkg/info/language-pack-zh-hans-base.list
+/var/lib/dpkg/info/libnss-systemd:amd64.list
+/var/lib/dpkg/info/xdg-utils.list
+/var/lib/dpkg/info/libgdk-pixbuf2.0-common.list
+/var/lib/dpkg/info/gir1.2-gdkpixbuf-2.0:amd64.list
+/var/lib/dpkg/info/libbrlapi0.8:amd64.list
+/var/lib/dpkg/info/netplan.io.list
+/var/lib/dpkg/info/libpam-systemd:amd64.list
+/var/lib/dpkg/info/gnome-settings-daemon-common.list
+/var/lib/dpkg/info/gir1.2-gnomedesktop-3.0:amd64.list
+/var/lib/dpkg/info/iptables.list
+/var/lib/dpkg/info/gir1.2-gtk-4.0:amd64.list
+/var/lib/dpkg/info/gnome-settings-daemon.list
+/var/lib/dpkg/info/libxtables12:amd64.list
+/var/lib/dpkg/info/fprintd.list
+/var/lib/dpkg/info/libdrm-intel1:amd64.list
+/var/lib/dpkg/info/libgnome-bg-4-1:amd64.list
+/var/lib/dpkg/info/gnome-initial-setup.list
+/var/lib/dpkg/info/python3-update-manager.list
+/var/lib/dpkg/info/ubuntu-desktop.list
+/var/lib/dpkg/info/firefox.list
+/var/lib/dpkg/info/libsasl2-modules-db:amd64.list
+/var/lib/dpkg/info/gzip.list
+/var/lib/ucf
+/var/lib/ucf/hashfile
+/var/lib/ucf/cache/:etc:default:grub
+/var/lib/logrotate
+/var/lib/logrotate/status
+/var/lib/PackageKit
+/var/lib/PackageKit/transactions.db
+/var/lib/plymouth/boot-duration
+/var/lib/fwupd
+/var/lib/fwupd/pending.db
+/var/lib/fwupd/gnupg
+/var/lib/fwupd/metadata/lvfs
+/var/lib/fwupd/metadata/lvfs/metadata.xml.gz.jcat
+/var/lib/fwupd/metadata/lvfs/metadata.xml.gz
+/var/lib/ubuntu-release-upgrader
+/var/lib/ubuntu-release-upgrader/release-upgrade-available
+/var/lib/update-manager/meta-release-lts
+/var/lib/gdm3
+/var/lib/gdm3/greeter-dconf-defaults
+/var/lib/gdm3/.cache
+/var/lib/gdm3/.cache/gstreamer-1.0
+/var/lib/gdm3/.cache/gstreamer-1.0/registry.x86_64.bin
+/var/lib/gdm3/.cache/tracker3/files
+/var/lib/gdm3/.cache/tracker3/files/meta.db
+/var/lib/gdm3/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23FileSystem.db
+/var/lib/gdm3/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Video.db
+/var/lib/gdm3/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db
+/var/lib/gdm3/.cache/tracker3/files/no-need-mtime-check.txt
+/var/lib/gdm3/.cache/tracker3/files/locale-for-miner-apps.txt
+/var/lib/gdm3/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Pictures.db
+/var/lib/gdm3/.cache/tracker3/files/last-crawl.txt
+/var/lib/gdm3/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Audio.db
+/var/lib/gdm3/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Software.db
+/var/lib/gdm3/.cache/ibus/bus
+/var/lib/gdm3/.cache/ibus/bus/registry
+/var/lib/gdm3/.cache/dconf
+/var/lib/gdm3/.cache/dconf/user
+/var/lib/gdm3/.config/pulse/41c35e52caf94a019e9fc316ac014307-default-source
+/var/lib/gdm3/.config/pulse/41c35e52caf94a019e9fc316ac014307-default-sink
+/var/lib/gdm3/.config/ibus/bus
+/var/lib/gdm3/.config/ibus/bus/41c35e52caf94a019e9fc316ac014307-unix-wayland-0
+/var/lib/gdm3/.config/ibus/bus/41c35e52caf94a019e9fc316ac014307-unix-1024
+/var/lib/gdm3/snap/snapd-desktop-integration
+/var/lib/gdm3/snap/snapd-desktop-integration/current
+/var/lib/gdm3/snap/snapd-desktop-integration/83
+/var/lib/gdm3/.local/share/gvfs-metadata
+/var/lib/gdm3/.local/share/gvfs-metadata/root
+/var/lib/gdm3/.local/share/gvfs-metadata/root-a246af4d.log
+/var/lib/NetworkManager
+/var/lib/NetworkManager/timestamps
+/var/lib/NetworkManager/internal-64c37750-8ab6-3cdb-b948-3966c6939e30-ens33.lease
+/var/lib/NetworkManager/NetworkManager.state
+/var/lib/NetworkManager/seen-bssids
+/var/lib/command-not-found
+/var/lib/command-not-found/commands.db
+/var/lib/command-not-found/commands.db.metadata
+/var/lib/alsa
+/var/lib/alsa/asound.state
+/var/lib/xkb
+/var/lib/update-notifier
+/var/lib/update-notifier/fsck-at-reboot
+/var/lib/update-notifier/dpkg-run-stamp
+/var/lib/update-notifier/updates-available
+/var/lib/snapd
+/var/lib/snapd/snaps
+/var/lib/snapd/snaps/snap-store_959.snap
+/var/lib/snapd/snaps/core_15925.snap
+/var/lib/snapd/state.json
+/var/lib/snapd/sequence
+/var/lib/snapd/sequence/core.json
+/var/lib/snapd/assertions/asserts-v0/snap-revision
+/var/lib/snapd/assertions/asserts-v0/snap-revision/sPTmOQ9Sxhs7FthNbf4qh2p2eR2tCoUzmXK8zhUy3T006hMCAK-Ir8VFftV0nPkO
+/var/lib/snapd/assertions/asserts-v0/snap-revision/sPTmOQ9Sxhs7FthNbf4qh2p2eR2tCoUzmXK8zhUy3T006hMCAK-Ir8VFftV0nPkO/active
+/var/lib/snapd/apparmor/profiles
+/var/lib/snapd/apparmor/profiles/snap-confine.core.15925
+/var/lib/snapd/apparmor/profiles/snap.core.hook.configure
+/var/lib/snapd/inhibit/core.lock
+/var/lib/polkit-1/localauthority/10-vendor.d
+/var/lib/whoopsie
+/var/lib/whoopsie/whoopsie-id
+/var/lib/udisks2
+/var/lib/udisks2/mounted-fs-persistent
+/var/lib/ubuntu-advantage
+/var/lib/ubuntu-advantage/apt-esm
+/var/lib/ubuntu-advantage/apt-esm/etc
+/var/lib/ubuntu-advantage/apt-esm/etc/apt
+/var/lib/ubuntu-advantage/apt-esm/etc/apt/sources.list.d
+/var/lib/ubuntu-advantage/apt-esm/etc/apt/sources.list.d/ubuntu-esm-apps.list
+/var/lib/ubuntu-advantage/apt-esm/etc/apt/trusted.gpg.d
+/var/lib/ubuntu-advantage/apt-esm/etc/apt/trusted.gpg.d/ubuntu-advantage-esm-apps.gpg
+/var/lib/ubuntu-advantage/apt-esm/etc/apt/sources.list
+/var/lib/ubuntu-advantage/apt-esm/var
+/var/lib/ubuntu-advantage/apt-esm/var/lib
+/var/lib/ubuntu-advantage/apt-esm/var/lib/dpkg
+/var/lib/ubuntu-advantage/apt-esm/var/lib/dpkg/status
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/esm.ubuntu.com_apps_ubuntu_dists_jammy-apps-security_main_binary-amd64_Packages
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/esm.ubuntu.com_apps_ubuntu_dists_jammy-apps-updates_InRelease
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/lock
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/esm.ubuntu.com_apps_ubuntu_dists_jammy-apps-security_InRelease
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/auxfiles
+/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial
+/var/lib/ubuntu-advantage/apt-esm/var/cache
+/var/lib/ubuntu-advantage/apt-esm/var/cache/apt
+/var/lib/ubuntu-advantage/apt-esm/var/cache/apt/pkgcache.bin
+/var/lib/ubuntu-advantage/apt-esm/var/cache/apt/archives
+/var/lib/ubuntu-advantage/apt-esm/var/cache/apt/archives/partial
+/var/lib/ubuntu-advantage/apt-esm/var/cache/apt/srcpkgcache.bin
+/var/lib/ubuntu-advantage/messages
+/var/lib/ubuntu-advantage/private
+/var/lib/ubuntu-advantage/status.json
+/var/lib/ubuntu-advantage/jobs-status.json
+/var/lib/pam
+/var/lib/pam/auth
+/var/lib/pam/account
+/var/lib/pam/session
+/var/lib/pam/seen
+/var/lib/pam/password
+/var/lib/pam/session-noninteractive
+/var/lib/systemd/deb-systemd-user-helper-enabled
+/var/lib/systemd/deb-systemd-user-helper-enabled/xdg-desktop-portal-rewrite-launchers.service.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/gnome-session.target.wants
+/var/lib/systemd/deb-systemd-user-helper-enabled/sockets.target.wants
+/var/lib/systemd/deb-systemd-user-helper-enabled/sockets.target.wants/speech-dispatcher.socket
+/var/lib/systemd/deb-systemd-user-helper-enabled/pulseaudio.service.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/pipewire.socket.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/speech-dispatcher.socket.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/gnome-remote-desktop.service.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/pulseaudio.socket.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/gnome-keyring.service.dsh-also
+/var/lib/systemd/deb-systemd-user-helper-enabled/pipewire.service.dsh-also
+/var/lib/systemd/catalog
+/var/lib/systemd/catalog/database
+/var/lib/systemd/timers/stamp-e2scrub_all.timer
+/var/lib/systemd/timers/stamp-anacron.timer
+/var/lib/systemd/timers/stamp-motd-news.timer
+/var/lib/systemd/timers/stamp-fstrim.timer
+/var/lib/systemd/timers/stamp-logrotate.timer
+/var/lib/systemd/timers/stamp-fwupd-refresh.timer
+/var/lib/systemd/timers/stamp-apt-daily.timer
+/var/lib/systemd/timers/stamp-man-db.timer
+/var/lib/systemd/timers/stamp-apt-daily-upgrade.timer
+/var/lib/systemd/timers/stamp-update-notifier-motd.timer
+/var/lib/systemd/random-seed
+/var/lib/systemd/deb-systemd-helper-enabled
+/var/lib/systemd/deb-systemd-helper-enabled/apport-autoreport.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/gpu-manager.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/ModemManager.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/systemd-oomd.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/wpa_supplicant.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/speech-dispatcherd.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/multi-user.target.wants
+/var/lib/systemd/deb-systemd-helper-enabled/multi-user.target.wants/ubuntu-advantage.service
+/var/lib/systemd/deb-systemd-helper-enabled/ufw.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/apt-daily-upgrade.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/ua-reboot-cmds.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/NetworkManager-wait-online.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/openvpn.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/grub-common.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/nftables.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/ubuntu-advantage.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/apparmor.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/NetworkManager-dispatcher.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/motd-news.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/update-notifier-download.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/systemd-timesyncd.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/dpkg-db-backup.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/update-notifier-motd.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/thermald.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/ua-timer.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/brltty.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/apport-forward.socket.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/apt-daily.timer.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/NetworkManager.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/apport-autoreport.path.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/grub-initrd-fallback.service.dsh-also
+/var/lib/systemd/deb-systemd-helper-enabled/fwupd-refresh.timer.dsh-also
+/var/lib/systemd/timesync/clock
+/var/lib/locales/supported.d
+/var/lib/ubuntu-drivers-common/last_gfx_boot
+/var/lib/swcatalog
+/var/lib/swcatalog/icons
+/var/lib/swcatalog/icons/ubuntu-jammy-multiverse
+/var/lib/swcatalog/icons/ubuntu-jammy-multiverse/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-multiverse/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-multiverse/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-main
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-main/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-main/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-main/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-universe
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-universe/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-universe/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-universe/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-security-universe
+/var/lib/swcatalog/icons/ubuntu-jammy-security-universe/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-security-universe/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-security-universe/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-universe
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-universe/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-universe/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-universe/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-multiverse
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-multiverse/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-multiverse/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-updates-multiverse/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-universe
+/var/lib/swcatalog/icons/ubuntu-jammy-universe/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-universe/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-universe/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-security-main
+/var/lib/swcatalog/icons/ubuntu-jammy-security-main/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-security-main/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-security-main/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-main
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-main/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-main/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-backports-main/64x64
+/var/lib/swcatalog/icons/ubuntu-jammy-main
+/var/lib/swcatalog/icons/ubuntu-jammy-main/64x64@2
+/var/lib/swcatalog/icons/ubuntu-jammy-main/48x48
+/var/lib/swcatalog/icons/ubuntu-jammy-main/64x64
+/var/lib/swcatalog/yaml
+/var/lib/apt
+/var/lib/apt/extended_states
+/var/lib/apt/lists
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_main_dep11_Components-amd64.yml.gz
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_universe_i18n_Translation-en
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_universe_dep11_Components-amd64.yml.gz
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_main_cnf_Commands-amd64
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_universe_dep11_icons-64x64.tar.gz
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-backports_InRelease
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_universe_dep11_icons-48x48.tar.gz
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_universe_binary-i386_Packages
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_universe_cnf_Commands-amd64
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-backports_universe_dep11_Components-amd64.yml.gz
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_main_binary-i386_Packages
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_main_cnf_Commands-amd64
+/var/lib/apt/lists/packages.microsoft.com_repos_code_dists_stable_main_binary-armhf_Packages
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_universe_binary-amd64_Packages
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_universe_i18n_Translation-en
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_universe_cnf_Commands-amd64
+/var/lib/apt/lists/packages.microsoft.com_repos_code_dists_stable_main_binary-arm64_Packages
+/var/lib/apt/lists/packages.microsoft.com_repos_code_dists_stable_InRelease
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_restricted_i18n_Translation-en
+/var/lib/apt/lists/packages.microsoft.com_repos_code_dists_stable_main_binary-amd64_Packages
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-backports_main_dep11_Components-amd64.yml.gz
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_main_binary-amd64_Packages
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_main_i18n_Translation-en
+/var/lib/apt/lists/partial
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_restricted_binary-amd64_Packages
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_main_binary-i386_Packages
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_main_dep11_Components-amd64.yml.gz
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_InRelease
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_universe_binary-i386_Packages
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_universe_binary-amd64_Packages
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_main_i18n_Translation-en
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_InRelease
+/var/lib/apt/lists/cn.archive.ubuntu.com_ubuntu_dists_jammy-updates_multiverse_dep11_Components-amd64.yml.gz
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_universe_dep11_Components-amd64.yml.gz
+/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_jammy-security_main_binary-amd64_Packages
+/var/lib/apt/periodic/update-success-stamp
+/var/lib/apt/periodic/unattended-upgrades-stamp
+/var/lib/apt/periodic/upgrade-stamp
+/var/lib/apt/periodic/download-upgradeable-stamp
+/var/lib/apt/periodic/update-stamp
+/var/lib/apt/daily_lock
+/var/backups
+/var/backups/dpkg.status.0
+/var/backups/alternatives.tar.0
+/var/backups/alternatives.tar.1.gz
+/var/backups/apt.extended_states.0
+/var/snap/core
+/var/snap/core/current
+/var/spool/anacron/cron.weekly
+/var/spool/anacron/cron.daily
+/var/cache
+/var/cache/ldconfig
+/var/cache/ldconfig/aux-cache
+/var/cache/fwupd
+/var/cache/fwupd/metainfo.xmlb
+/var/cache/fwupd/metadata.xmlb
+/var/cache/fwupd/quirks.xmlb
+/var/cache/man
+/var/cache/man/nl
+/var/cache/man/nl/index.db
+/var/cache/man/fi
+/var/cache/man/pt
+/var/cache/man/pt/index.db
+/var/cache/man/ko
+/var/cache/man/uk
+/var/cache/man/da
+/var/cache/man/id
+/var/cache/man/ja
+/var/cache/man/ja/index.db
+/var/cache/man/ro
+/var/cache/man/pl
+/var/cache/man/pl/index.db
+/var/cache/man/fr.ISO8859-1
+/var/cache/man/de
+/var/cache/man/de/index.db
+/var/cache/man/et
+/var/cache/man/sr
+/var/cache/man/el
+/var/cache/man/zh_CN
+/var/cache/man/zh_TW
+/var/cache/man/sl
+/var/cache/man/fr.UTF-8
+/var/cache/man/pt_BR
+/var/cache/man/sv
+/var/cache/man/sv/index.db
+/var/cache/man/tr
+/var/cache/man/index.db
+/var/cache/man/es
+/var/cache/man/es/index.db
+/var/cache/man/nb
+/var/cache/man/fr
+/var/cache/man/fr/index.db
+/var/cache/man/it
+/var/cache/man/it/index.db
+/var/cache/man/cs
+/var/cache/man/ru
+/var/cache/man/hu
+/var/cache/man/ca
+/var/cache/snapd
+/var/cache/snapd/aux
+/var/cache/snapd/aux/99T7MUlRhtI3U0QFgl5mXXESAiSwt776.json
+/var/cache/snapd/commands.db
+/var/cache/snapd/sections
+/var/cache/snapd/names
+/var/cache/apparmor
+/var/cache/apparmor/30d07b40.0
+/var/cache/apparmor/30d07b40.0/usr.sbin.cupsd
+/var/cache/apparmor/30d07b40.0/usr.bin.man
+/var/cache/apparmor/30d07b40.0/snap-confine.core.15925
+/var/cache/apparmor/30d07b40.0/usr.lib.libreoffice.program.xpdfimport
+/var/cache/apparmor/30d07b40.0/snap.core.hook.configure
+/var/cache/apparmor/30d07b40.0/usr.sbin.cups-browsed
+/var/cache/apparmor/30d07b40.0/usr.bin.evince
+/var/cache/apparmor/30d07b40.0/usr.lib.snapd.snap-confine.real
+/var/cache/apparmor/30d07b40.0/usr.bin.tcpdump
+/var/cache/apparmor/30d07b40.0/sbin.dhclient
+/var/cache/apparmor/30d07b40.0/usr.lib.libreoffice.program.oosplash
+/var/cache/apparmor/30d07b40.0/usr.lib.libreoffice.program.soffice.bin
+/var/cache/apparmor/30d07b40.0/.features
+/var/cache/apparmor/30d07b40.0/usr.lib.libreoffice.program.senddoc
+/var/cache/apparmor/30d07b40.0/nvidia_modprobe
+/var/cache/apparmor/30d07b40.0/lsb_release
+/var/cache/apparmor/8eeb6286.0
+/var/cache/apparmor/8eeb6286.0/usr.sbin.cupsd
+/var/cache/apparmor/8eeb6286.0/usr.bin.man
+/var/cache/apparmor/8eeb6286.0/snap-confine.core.15925
+/var/cache/apparmor/8eeb6286.0/usr.lib.libreoffice.program.xpdfimport
+/var/cache/apparmor/8eeb6286.0/snap.core.hook.configure
+/var/cache/apparmor/8eeb6286.0/usr.sbin.cups-browsed
+/var/cache/apparmor/8eeb6286.0/usr.bin.evince
+/var/cache/apparmor/8eeb6286.0/usr.lib.snapd.snap-confine.real
+/var/cache/apparmor/8eeb6286.0/usr.bin.tcpdump
+/var/cache/apparmor/8eeb6286.0/sbin.dhclient
+/var/cache/apparmor/8eeb6286.0/usr.lib.libreoffice.program.oosplash
+/var/cache/apparmor/8eeb6286.0/usr.lib.libreoffice.program.soffice.bin
+/var/cache/apparmor/8eeb6286.0/usr.lib.libreoffice.program.senddoc
+/var/cache/apparmor/8eeb6286.0/nvidia_modprobe
+/var/cache/apparmor/8eeb6286.0/lsb_release
+/var/cache/fontconfig
+/var/cache/fontconfig/573ec803664ed168555e0e8b6d0f0c7f-le64.cache-6
+/var/cache/fontconfig/d82eb4fd963d448e2fcb7d7b793b5df3-le64.cache-6
+/var/cache/fontconfig/707971e003b4ae6c8121c3a920e507f5-le64.cache-6
+/var/cache/fontconfig/3830d5c3ddfd5cd38a049b759396e72e-le64.cache-6
+/var/cache/fontconfig/57e423e26b20ab21d0f2f29c145174c3-le64.cache-6
+/var/cache/fontconfig/CACHEDIR.TAG
+/var/cache/fontconfig/7ef2298fde41cc6eeb7af42e48b7d293-le64.cache-6
+/var/cache/fontconfig/6b957415-5bd2-42b1-99e1-89e25adfa1c1-le64.cache-7
+/var/cache/fontconfig/c855463f699352c367813e37f3f70ea7-le64.cache-6
+/var/cache/debconf
+/var/cache/debconf/templates.dat
+/var/cache/debconf/config.dat-old
+/var/cache/debconf/templates.dat-old
+/var/cache/debconf/config.dat
+/var/cache/private
+/var/cache/swcatalog/cache
+/var/cache/swcatalog/cache/zh_CN-local-metainfo.xb
+/var/cache/swcatalog/cache/zh_CN-os-catalog.xb
+/var/cache/apt
+/var/cache/apt/pkgcache.bin
+/var/cache/apt/archives
+/var/cache/apt/archives/partial
+/var/cache/apt/srcpkgcache.bin
+/var/cache/cups
+/var/cache/cups/org.cups.cupsd
+/var/cache/cups/job.cache
+/var/cache/cups/job.cache.O
+/var/log
+/var/log/vmware-network.7.log
+/var/log/auth.log
+/var/log/ubuntu-advantage.log
+/var/log/lastlog
+/var/log/btmp
+/var/log/boot.log.1
+/var/log/alternatives.log
+/var/log/v"
+"mware-vmsvc-root.log
+/var/log/wtmp
+/var/log/fontconfig.log
+/var/log/vmware-network.6.log
+/var/log/boot.log
+/var/log/dpkg.log
+/var/log/unattended-upgrades/unattended-upgrades.log
+/var/log/vmware-network.8.log
+/var/log/vsftpd.log
+/var/log/syslog
+/var/log/vsftpd.log.1
+/var/log/kern.log.1
+/var/log/kern.log
+/var/log/faillog
+/var/log/vmware-network.5.log
+/var/log/vmware-vmsvc-root.1.log
+/var/log/journal/41c35e52caf94a019e9fc316ac014307
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@9c130740a08d4a9f9387c4a240574b5b-0000000000013ff7-000603f5d90f2e46.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-000000000001279f-000603b75608b802.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-000000000001262e-000603b55e95500b.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000014267-000603fac9c7c14c.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-0000000000012984-000603b9b74fd43b.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000012116-000603819af40acc.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@9c130740a08d4a9f9387c4a240574b5b-00000000000142bf-000603fad53f0959.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@9c130740a08d4a9f9387c4a240574b5b-0000000000014922-0006041cfa442fb2.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000012621-000603b55d6cd3d3.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000012544-000603a61355cdcb.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-000000000001278d-000603b6f90a0efb.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-00000000000121f6-000603a1b63b25a4.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000012731-000603b64f6bf1a0.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000014788-00060419ea7130a2.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-0000000000012b5c-000603f165a92efa.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-0000000000012130-00060381cad8307d.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-000000000001254b-000603a6135b2a6b.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-00000000000121dc-000603a1b2f74f22.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@9c130740a08d4a9f9387c4a240574b5b-00000000000145ef-0006040b5d71be9b.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000014912-0006041cf8a9a115.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-0000000000012742-000603b656c422fb.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-000000000001457b-0006040b5bb16f34.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@9c130740a08d4a9f9387c4a240574b5b-0000000000013da7-000603f56e31e04e.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000013d8f-000603f55fd18da0.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000012b54-000603f164e6bbba.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@9c130740a08d4a9f9387c4a240574b5b-00000000000147dc-00060419ee5c9b37.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-0000000000013fea-000603f5d9034721.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-000000000001297a-000603b9b19b1aa8.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/system@68420781d84d43c190fd19dd86a9a85d-00000000000129d5-000603ba02a92df3.journal
+/var/log/journal/41c35e52caf94a019e9fc316ac014307/user-1000@3b6e85fdaf844fc8a4987874a1fa152a-00000000000129d9-000603ba02ee71d6.journal
+/var/log/vmware-vmtoolsd-root.log
+/var/log/dmesg
+/var/log/vmware-network.1.log
+/var/log/vmware-network.4.log
+/var/log/ubuntu-advantage-timer.log
+/var/log/vmware-network.log
+/var/log/vmware-network.3.log
+/var/log/auth.log.1
+/var/log/vmware-network.2.log
+/var/log/ubuntu-advantage.log.1
+/var/log/syslog.1
+/var/log/apt
+/var/log/apt/term.log
+/var/log/apt/history.log
+/var/log/apt/eipp.log.xz
+/var/log/vmware-network.9.log
+/var/log/gpu-manager.log
+/var/log/cups
+/var/log/cups/access_log.2.gz
+/var/log/cups/access_log.3.gz
+/var/log/cups/access_log.5.gz
+/var/log/cups/access_log.4.gz
+/var/log/cups/access_log
+/var/log/cups/access_log.1
+/var/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-power-profiles-daemon.service-UJyHfd
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-power-profiles-daemon.service-UJyHfd/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-bluetooth.service-OSYRet
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-bluetooth.service-OSYRet/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-upower.service-5iJqr9
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-upower.service-5iJqr9/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-oomd.service-fmwSEw
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-oomd.service-fmwSEw/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-resolved.service-We5FbY
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-resolved.service-We5FbY/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-switcheroo-control.service-TQZa3u
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-switcheroo-control.service-TQZa3u/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-ModemManager.service-rT3nwk
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-ModemManager.service-rT3nwk/tmp
+/var/tmp/sshd_config.swp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-timesyncd.service-9vNrgj
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-timesyncd.service-9vNrgj/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-logind.service-u1kPuN
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-systemd-logind.service-u1kPuN/tmp
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-colord.service-hUCnGW
+/var/tmp/systemd-private-c0a403ce1fea46ccae2ed2716c3570a5-colord.service-hUCnGW/tmp
+""",,
+192.168.196.143:22:liuxinyu,History,"go env -w GOPROXY='https://goproxy.cn' 
+go env -w GOPROXY='https://goproxy.cn' 
+ssh
+sshd
+sudo apt install openssh-server
+sudo systemctl status ssh
+sudo ufw allow ssh
+tar -xzf go1.17.9.linux-amd64.tar.gz 
+tar -C /usr/local -xzf go1.18.3.linux-amd64.tar.gz 
+sudo tar -C /usr/local -xzf go1.18.3.linux-amd64.tar.gz 
+sudo tar -C /usr/local -xzf go1.17.9.linux-amd64.tar.gz 
+systemctl  status ssh
+chmod 646 /run/systemd/resolve/stub-resolv.conf
+sudo chmod 646 /run/systemd/resolve/stub-resolv.conf
+tar -xvzf goland-2021.2.2.tar.gz 
+ls /usr/bin/ | grep goland-2021.2.2.tar.gz 
+tar -zrf
+tar -zrf goTasks/
+tar -zf goTasks/
+tar -h
+tar --help
+tar -zcf goTasks/
+tar -cf goTasks/
+tarv -czf gotasks.tar.gz2 goTasks/
+tar -czf gotasks.tar.gz2 goTasks/
+systemctl status sshd
+systemctl status sshd
+tar -cf ./*.xlsx ¶ÔÏóÊÚÈ¨µ¼Èë.tar
+[200~ curl 'http://localhost:9999/hello?name=geektutu'~
+curl 'http://localhost:9999/login' -X POST -d 'username=geektut
+[200~ curl 'http://localhost:9999/xxx
+curl 'http://localhost:9999/xxx
+curl 'http://localhost:9999/xxx'
+curl 'http://localhost:9999/hello/geektutu'
+curl 'http://localhost:9999/assets/css/geektutu.css'
+curl 'http://localhost:9999/hello/xiaoliu'
+curl 'http://localhost:9999/hell/'
+curl 'http://localhost:9999/hello/xx/xx'
+curl http://localhost:9999/
+curl http://localhost:9999/v2/hello/geektutu
+curl http://127.0.0.1:9999
+curl http://127.0.0.1:9999/assets/geektutu.css
+curl 'http://localhost:9999'
+curl 'http://localhost:9999/panic'
+curl 'http://localhost:9999'
+curl 'http://localhost:9999/panic'
+curl 'http://localhost:9999'
+cobra-cli add wget
+http://www.zhenai.com/zhenghun
+systemctl  status sshd
+systemctl  restart sshd
+curl https://www.baidu.com
+chmod
+chmod 777 Dome 
+curl https://www.baidu.com
+	targetFilePath string
+	targetList     []interface{}
+systemctl reset sshd
+systemctl reset ssh
+systemctl restart sshd
+apt-get update ssh
+systemctl restart
+sudo apt-get install ftp
+systemctl start ftp
+sudo apt-get install ftpd
+systemctl start ftp
+systemctl start ftpd
+systemctl status ftp
+systemctl status ftpd
+sudo systemctl start vsftpd 
+sudo apt-get install vsftpd
+sudo systemctl enable vsftpd
+sudo systemctl start vsftpd 
+sudo netstat -antup | grep ftp 
+systemctl status sshd
+systemctl start sshd
+systemctl status sshd
+systemctl restart sshd
+systemctl stop sshd
+systemctl restart sshd
+cat /home/liuxinyu//.bash_history |grep -E \'wget|curl|http|rsync|sftp|ssh|scp|rcp|python|java|chmod|ftp|bash£üzip|tar\'
+cat /home/liuxinyu/.bash_history |grep -E \'wget|curl|http|rsync|sftp|ssh|scp|rcp|python|java|chmod|ftp|bash£üzip|tar\'
+cat /home/liuxinyu/.bash_history |grep -E 'wget|curl|http|rsync|sftp|ssh|scp|rcp|python|java|chmod|ftp|bash£üzip|tar'
+cat /home/liuxinyu/.bash_history |grep -E 'wget|curl|http|rsync|sftp|ssh|scp|rcp|python|java|chmod|ftp|bash£üzip|tar' | xargs -I {} 
+cat /home/liuxinyu/.bash_history |grep -E 'wget|curl|http|rsync|sftp|ssh|scp|rcp|python|java|chmod|ftp|bash£üzip|tar' | xargs -I {} echo emd:{}
+cat /home/liuxinyu/.bash_history |grep -E 'wget|curl|http|rsync|sftp|ssh|scp|rcp|python|java|chmod|ftp|bash£üzip|tar' |  echo emd:{}
+cat /home/liuxinyu/.bash_history |grep -E 'wget|curl|http|rsync|sftp|ssh|scp|rcp|python|java|chmod|ftp|bash£üzip|tar' |  sed 's/^/[sudo] liuxinyu µÄÃÜÂë£º "
+192.168.196.143:22:liuxinyu,Network,"State  Recv-Q Send-Q   Local Address:Port  Peer Address:Port Process                                                 
+LISTEN 0      128            0.0.0.0:22         0.0.0.0:*     users:(('sshd',pid=14173,fd=3))                        
+LISTEN 0      128          127.0.0.1:631        0.0.0.0:*     users:(('cupsd',pid=13756,fd=7))                       
+LISTEN 0      4096     127.0.0.53%lo:53         0.0.0.0:*     users:(('systemd-resolve',pid=566,fd=14))              
+ESTAB  0      0      192.168.196.143:22   192.168.196.1:5835  users:(('sshd',pid=15828,fd=4),('sshd',pid=15750,fd=4))
+ESTAB  0      0      192.168.196.143:22   192.168.196.1:48636 users:(('sshd',pid=14841,fd=4),('sshd',pid=14805,fd=4))
+LISTEN 0      32                   *:21               *:*     users:(('vsftpd',pid=949,fd=3))                        
+LISTEN 0      128               [::]:22            [::]:*     users:(('sshd',pid=14173,fd=4))                        
+LISTEN 0      128              [::1]:631           [::]:*     users:(('cupsd',pid=13756,fd=6))                       
+"
+192.168.196.143:22:liuxinyu,SSH FIP,"FIP:	     13 192.168.196.1
+"
+192.168.196.143:22:liuxinyu,SSH FUSER,"FUSER:	     19 (.*?)
+     16  liuxinyu
+"
+192.168.196.143:22:liuxinyu,SSH SINFO,"SINFO:	/var/log/auth.log:Aug 28 09:12:59 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 09:15:48 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 09:21:22 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 09:41:58 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 09:43:55 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 09:45:46 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 10:43:32 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 10:50:18 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 10:51:46 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 10:58:20 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 11:00:45 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 11:26:30 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 11:29:43 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:02:08 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:31:54 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:45:18 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:47:35 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:49:30 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:51:37 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:52:47 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 14:58:24 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 15:14:36 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 15:18:02 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 15:19:29 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 15:21:04 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 15:22:11 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 15:23:04 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 15:44:51 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:01:31 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:03:03 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:03:43 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:08:43 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:17:40 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:31:34 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:32:56 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:33:53 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 16:57:30 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 17:07:12 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 17:32:54 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 17:46:31 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:25:25 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:35:58 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:41:58 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:46:12 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:48:40 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:49:49 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:51:10 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:52:14 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:53:30 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:55:34 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 20:58:07 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:00:58 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:01:11 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:01:40 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:05:36 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:11:12 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:17:59 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:18:32 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:18:54 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:20:18 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:21:51 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:22:05 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:24:13 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:37:58 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:43:03 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:44:00 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 21:51:09 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:23:22 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:27:57 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:28:32 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:29:07 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:31:41 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:32:32 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:33:07 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:33:43 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:35:00 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:35:28 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:35:34 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:36:06 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:37:18 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:38:32 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:38:38 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:38:46 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:39:04 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:39:14 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:39:40 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:39:46 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:40:18 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:40:32 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:40:38 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:42:24 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:42:39 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:42:50 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:42:55 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:54:31 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:54:45 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:54:54 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 22:55:09 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 23:05:28 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 23:07:23 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 23:11:55 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 23:13:26 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 23:13:50 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 28 23:13:56 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 29 16:11:57 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 29 16:11:59 ; ;
+/var/log/auth.log:Aug 29 16:12:00 ; ;
+/var/log/auth.log:Aug 29 17:07:09 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 29 17:10:57 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 29 17:29:20 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 29 17:29:34 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 29 17:30:02 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 29 17:34:02 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:33:42 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:35:30 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:37:55 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:39:38 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:39:44 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:39:48 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:40:14 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:41:19 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:42:06 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:44:09 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:47:22 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:50:06 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:51:36 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:55:34 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 09:58:03 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 10:00:29 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 10:02:49 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 13:12:38 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 13:20:49 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 13:23:14 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 13:23:50 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 18:09:28 liuxinyu 192.168.196.1
+/var/log/auth.log:Aug 30 18:10:28 ; ;
+/var/log/auth.log:Aug 30 18:10:29 ; ;
+/var/log/auth.log.1:Aug 21 11:02:28 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 11:08:31 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 13:13:30 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 13:14:00 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 13:14:07 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 17:11:40 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 17:18:47 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 17:20:45 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 22:51:43 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 22:53:47 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 22:55:13 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 21 22:59:49 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 10:16:08 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 10:19:38 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 10:23:56 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 10:29:28 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 10:34:03 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 11:52:00 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 11:53:56 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 11:58:20 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:04:41 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:23:30 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:25:59 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:26:29 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:26:51 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:29:40 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:30:50 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:31:17 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:38:22 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:38:39 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:44:20 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 16:48:09 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:01:18 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:04:19 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:05:19 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:05:59 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:06:38 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:08:13 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:08:38 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:09:02 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:09:41 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:10:20 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:11:46 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:18:54 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 17:19:47 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:02:17 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:03:11 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:03:37 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:05:45 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:06:09 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:06:39 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:08:55 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:10:17 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:18:53 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:18:55 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:21:34 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:22:45 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:23:39 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:24:03 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:26:08 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:26:23 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:27:30 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:30:10 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:30:53 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:32:02 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:33:00 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:36:47 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:37:12 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:38:39 test2 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:41:14 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:43:08 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:43:33 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:44:16 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:47:57 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:50:47 test 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:51:16 test2 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:53:18 test2 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:55:08 test2 192.168.196.1
+/var/log/auth.log.1:Aug 22 18:56:14 test2 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:02:43 test2 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:03:01 test2 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:04:19 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:04:33 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:13:14 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:13:35 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:13:44 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:27:27 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:28:26 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:33:45 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:50:49 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 19:53:13 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 20:03:52 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 20:09:45 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 22 20:30:06 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 10:33:16 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 10:35:43 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 10:40:04 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 10:47:18 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 10:51:48 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 10:54:05 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 10:56:38 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 11:06:22 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 11:07:59 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 11:15:02 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 11:18:43 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 11:32:55 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 11:34:41 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 24 15:24:51 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 09:36:56 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 10:44:13 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 11:56:41 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 11:58:24 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 11:59:34 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:00:20 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:00:40 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:02:02 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:03:08 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:04:28 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:08:26 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:10:20 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:12:29 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:17:49 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:39:55 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:41:30 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:43:32 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:47:01 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:47:40 ; ;
+/var/log/auth.log.1:Aug 25 12:48:09 ; ;
+/var/log/auth.log.1:Aug 25 12:58:36 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 12:58:52 ; ;
+/var/log/auth.log.1:Aug 25 12:58:59 ; ;
+/var/log/auth.log.1:Aug 25 13:00:12 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 13:00:16 ; ;
+/var/log/auth.log.1:Aug 25 13:03:02 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 13:03:09 ; ;
+/var/log/auth.log.1:Aug 25 13:03:56 ; ;
+/var/log/auth.log.1:Aug 25 13:03:56 ; ;
+/var/log/auth.log.1:Aug 25 13:04:29 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 13:04:32 ; ;
+/var/log/auth.log.1:Aug 25 13:04:32 ; ;
+/var/log/auth.log.1:Aug 25 14:47:03 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 14:47:24 ; ;
+/var/log/auth.log.1:Aug 25 14:47:24 ; ;
+/var/log/auth.log.1:Aug 25 15:12:14 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 15:29:40 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 15:32:45 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 15:34:09 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 16:42:49 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 16:46:52 liuxinyu 192.168.196.1
+/var/log/auth.log.1:Aug 25 16:50:51 liuxinyu 192.168.196.1
+"
+192.168.196.143:22:liuxinyu,Find Cron 7,"/etc/cron.d/
+/etc/cron.d/test2
+/etc/cron.d/test1
+[sudo] liuxinyu µÄÃÜÂë£º /etc/cron.daily/
+[sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º "
+192.168.196.143:22:liuxinyu,Find StartUp 7,"[sudo] liuxinyu µÄÃÜÂë£º cat: /etc/rc.local: Ã»ÓÐÄÇ¸öÎÄ¼þ»òÄ¿Â¼
+[sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º [sudo] liuxinyu µÄÃÜÂë£º find: ¡®/etc/init/rc.d/¡¯: Ã»ÓÐÄÇ¸öÎÄ¼þ»òÄ¿Â¼
+"
+192.168.196.143:22:liuxinyu,User,root^liuxinyu^
+192.168.196.143:22:liuxinyu,User empty,[sudo] liuxinyu µÄÃÜÂë£º 
+192.168.196.143:22:liuxinyu,Cron,"# DO NOT EDIT THIS FILE - edit the master and reinstall.
+# (/tmp/crontab.ed3IeO/crontab installed on Tue Aug 22 14:48:32 2023)
+# (Cron version -- $Id: crontab.c,v 2.13 1994/01/17 03:20:37 vixie Exp $)
+# Edit this file to introduce tasks to be run by cron.
+# 
+# Each task to run has to be defined through a single line
+# indicating with different fields when the task will be run
+# and what command to run for the task
+# 
+# To define the time you can provide concrete values for
+# minute (m), hour (h), day of month (dom), month (mon),
+# and day of week (dow) or use '*' in these fields (for 'any').
+# 
+# Notice that tasks will be started based on the cron's system
+# daemon's notion of time and timezones.
+# 
+# Output of the crontab jobs (including errors) is sent through
+# email to the user the crontab file belongs to (unless redirected).
+# 
+# For example, you can run a backup of all your user accounts
+# at 5 a.m every week with:
+# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/
+# 
+# For more information see the manual pages of crontab(5) and cron(8)
+# 
+# m h  dom mon dow   command
+0 * * * * echo 'hello' >> /tmp/hello.txt
+"

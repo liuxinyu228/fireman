@@ -1,0 +1,15 @@
+workspace:  #资源名称
+  ip: 192.168.196.143
+  port: 22
+  protocol: SSH
+  user: liuxinyu
+  passwd: liuliu228@
+  keyfile:
+
+linux2:
+  ip: 192.168.196.169
+  port: 22
+  protocol: SSH
+  user: root
+  passwd: liuliu228@
+  keyfile:
