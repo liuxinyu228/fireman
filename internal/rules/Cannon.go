@@ -365,7 +365,7 @@ func ScanSeed(performer command.Performer, sourceFile string, targetPath string,
 	if !isup {
 		fmt.Printf("开始上传yara扫描引擎...\n")
 		_, err := performer.UploadFile(sourceFile, "/tmp/")
-		if err != nil {
+		if err != nil && err != os.ErrExist {
 			return nil, fmt.Errorf("上传扫描引擎报错：%s", err)
 		}
 		sinfo, _ := os.Stat(sourceFile)

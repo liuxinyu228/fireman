@@ -11,6 +11,8 @@ import (
 	"log"
 	"os"
 	"strings"
+	"sync"
+	"time"
 )
 
 type HF func(string) error
@@ -129,37 +131,65 @@ func (e *engine) webShellScan(target string) error {
 }
 
 func (e *engine) fileScan(source string, target string) error {
+	var sem = make(chan int, 1)
+	var mespipe = make(chan []byte, 1)
+	var wg sync.WaitGroup
+	var key string
 	isup := false
 	if len(e.recorder.workBarrel) == 0 {
 		return fmt.Errorf("请选择需要执行命令的资源！")
 	}
 	for _, r := range e.recorder.workBarrel {
-		key := fmt.Sprintf("%s:%d:%s", r.IP, r.Port, r.User)
+		key = fmt.Sprintf("%s:%d:%s", r.IP, r.Port, r.User)
 		if e.recorder.terminalMap[key] == nil {
 			continue
 		}
-	scan:
-		date, err := rules.ScanSeed(e.recorder.terminalMap[key], source, target, isup)
-		if err != nil {
-			if strings.Contains(err.Error(), "上传") {
-				fmt.Printf("上传文件到%s服务器报错：%s\n", key, date)
-				var s string
-				fmt.Printf("请手动上传%s文件到%s服务器的/tmp目录，并且解压赋予yara执行权限\n", key, source)
-				fmt.Printf("是否完成(Y/N)：")
-				fmt.Scanln(&s)
-				if strings.ToUpper(s) == "Y" {
-					isup = true
-					goto scan
-				} else {
-					fmt.Printf("跳过执行当前资源：%s\n", key)
-					continue
+		wg.Add(1)
+		go func(sem chan int, mespipe chan []byte) {
+			defer wg.Done()
+		scan:
+			date, err := rules.ScanSeed(e.recorder.terminalMap[key], source, target, isup)
+			if err != nil {
+				if strings.Contains(err.Error(), "上传") {
+					sem <- 1
+					fmt.Printf("上传文件到%s服务器报错：%s\n", key, date)
+					var s string
+					fmt.Printf("请手动上传%s文件到%s服务器的/tmp目录，并且解压赋予yara执行权限\n", key, source)
+					fmt.Printf("是否完成(Y/N)：")
+					fmt.Scanln(&s)
+					if strings.ToUpper(s) == "Y" {
+						isup = true
+						goto scan
+					} else {
+						fmt.Printf("跳过执行当前资源：%s\n", key)
+					}
+					<-sem
 				}
 			}
-		}
-		mes := message{name: key, date: date, cmd: "fileScan"}
-		fmt.Printf("%s(%s):\n%s\n", mes.name, mes.cmd, mes.date)
-		e.recorder.MessagePipe <- mes
+			mespipe <- date
+		}(sem, mespipe)
 	}
+
+	go func(sem chan int) {
+		for {
+			select {
+			case date, ok := <-mespipe:
+				if !ok {
+					return
+				}
+				mes := message{name: key, date: date, cmd: "fileScan"}
+				fmt.Printf("%s(%s):\n%s\n", mes.name, mes.cmd, mes.date)
+				e.recorder.MessagePipe <- mes
+			case <-time.After(15 * time.Second):
+				sem <- 1
+				fmt.Println("正在扫描中...")
+				<-sem
+			}
+		}
+	}(sem)
+	wg.Wait()
+	close(mespipe)
+	close(sem)
 	return nil
 }
 
