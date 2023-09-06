@@ -136,3 +136,35 @@ set OutPath [输出路径]
 * 输出文件中`\n`换行字符被替换成了`+`字符，在后续查看中可替换回`\n`字符。
 
 * 如果命令执行后的回显信息为`[sudo] liuxinyu 的密码：`或类似信息，则标识该项命令排查信息为空
+
+
+
+
+##### 文件扫描功能
+
+```
+webShellScan [targetDir]
+```
+
+使用yara软件进行文件扫描，程序会将扫描引擎和扫描规则文件`.\static\webshellscan_linux.zip`上传到机器的`/tmp`目录下
+
+```
+webshellscan_linux
+├── rules.yar
+├── webshells
+│   ├── WShell_APT_Laudanum.yar
+│   ├── WShell_ASPXSpy.yar
+│   ├── WShell_Drupalgeddon2_icos.yar
+│   ├── WShell_PHP_Anuna.yar
+│   ├── WShell_PHP_in_images.yar
+│   └── WShell_THOR_Webshells.yar
+└── yara
+```
+
+如果需要自定义规则，需要注意以下几点
+
+* 压缩包名称不能更改
+* 扫描引擎的yara名称不能更改
+* 扫描引擎yara的规则入口文件为`rules.yar`
+
+**也可以直接使用cmd /tmp/yara [parameter]去执行特定的扫描任务**
