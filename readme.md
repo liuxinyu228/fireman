@@ -167,8 +167,4 @@ webshellscan_linux
 * 扫描引擎的yara名称不能更改
 * 扫描引擎yara的规则入口文件为`rules.yar`
 
-<<<<<<< HEAD
 **也可以直接使用cmd /tmp/yara [parameter]去执行特定的扫描任务**
-=======
-**也可以直接使用cmd /tmp/yara [parameter]去执行特定的扫描任务**
->>>>>>> c6a7dba44b7ff5fefe906bd9d2a894e8b5018711
